@@ -1,0 +1,14 @@
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\bin\Debug\net8.0\originalApp.exe
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\bin\Debug\net8.0\originalApp.deps.json
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\bin\Debug\net8.0\originalApp.runtimeconfig.json
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\bin\Debug\net8.0\originalApp.dll
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\bin\Debug\net8.0\originalApp.pdb
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\obj\Debug\net8.0\originalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\obj\Debug\net8.0\originalApp.AssemblyInfoInputs.cache
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\obj\Debug\net8.0\originalApp.AssemblyInfo.cs
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\obj\Debug\net8.0\originalApp.csproj.CoreCompileInputs.cache
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\obj\Debug\net8.0\originalApp.dll
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\obj\Debug\net8.0\refint\originalApp.dll
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\obj\Debug\net8.0\originalApp.pdb
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\obj\Debug\net8.0\originalApp.genruntimeconfig.cache
+C:\Vasanth\Training Materials\PerformanceEngineering\AlgorithmOptimization\originalApp\obj\Debug\net8.0\ref\originalApp.dll

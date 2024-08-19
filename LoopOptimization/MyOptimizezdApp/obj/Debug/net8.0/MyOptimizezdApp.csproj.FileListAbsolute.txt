@@ -1,0 +1,14 @@
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\bin\Debug\net8.0\MyOptimizezdApp.exe
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\bin\Debug\net8.0\MyOptimizezdApp.deps.json
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\bin\Debug\net8.0\MyOptimizezdApp.runtimeconfig.json
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\bin\Debug\net8.0\MyOptimizezdApp.dll
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\bin\Debug\net8.0\MyOptimizezdApp.pdb
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\obj\Debug\net8.0\MyOptimizezdApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\obj\Debug\net8.0\MyOptimizezdApp.AssemblyInfoInputs.cache
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\obj\Debug\net8.0\MyOptimizezdApp.AssemblyInfo.cs
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\obj\Debug\net8.0\MyOptimizezdApp.csproj.CoreCompileInputs.cache
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\obj\Debug\net8.0\MyOptimizezdApp.dll
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\obj\Debug\net8.0\refint\MyOptimizezdApp.dll
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\obj\Debug\net8.0\MyOptimizezdApp.pdb
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\obj\Debug\net8.0\MyOptimizezdApp.genruntimeconfig.cache
+C:\Vasanth\Training Materials\PerformanceEngineering\LoopOptimization\MyOptimizezdApp\obj\Debug\net8.0\ref\MyOptimizezdApp.dll
